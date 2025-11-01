@@ -114,3 +114,5 @@ for i, (texto, resultado) in enumerate(zip(reviews, resultados), 1):
     print("-" * 70)
 
 print("="*70 + "\n")
+# Nota: Asegúrate de tener la variable de entorno GOOGLE_API_KEY configurada
+# para que el script funcione correctamente.
